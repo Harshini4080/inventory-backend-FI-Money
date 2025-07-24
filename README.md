@@ -1,10 +1,10 @@
-# 🛒 Inventory Management System – Backend API
+# Inventory Management System – Backend API
 
 This project was built as part of the **FI Money Backend Intern assignment**. It provides a secure and clean REST API for managing users and product inventories for a small business.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Node.js** + **Express.js**
 - **MongoDB** + **Mongoose**
@@ -14,7 +14,7 @@ This project was built as part of the **FI Money Backend Intern assignment**. It
 
 ---
 
-## 📦 Features
+## Features
 
 - ✅ User authentication (login)
 - ✅ Add a new product
@@ -25,7 +25,7 @@ This project was built as part of the **FI Money Backend Intern assignment**. It
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ├── config/ # MongoDB connection
 ├── controllers/ # Business logic
@@ -41,7 +41,7 @@ This project was built as part of the **FI Money Backend Intern assignment**. It
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -75,7 +75,7 @@ npm run dev
 Your API will be live at http://localhost:5000.
 
 
-## 🔐 Authentication
+## Authentication
 
 After logging in via `POST /api/auth/login`, you'll receive a **JWT token**.
 To access protected routes, include this header in every request:
@@ -84,7 +84,7 @@ Authorization: Bearer <your_token>
 
 ---
 
-## 🔗 API Endpoints
+## API Endpoints
 
 | Method | Endpoint                           | Description                    | Auth |
 |--------|------------------------------------|--------------------------------|------|
@@ -96,7 +96,7 @@ Authorization: Bearer <your_token>
 
 ---
 
-## 📖 API Documentation (Swagger)
+## API Documentation (Swagger)
 
 Interactive Swagger documentation is available at:
 
@@ -106,7 +106,7 @@ You can view all endpoints, try requests, and see expected inputs and responses.
 
 ---
 
-## 🧪 Testing with Postman
+## Testing with Postman
 
 A ready-to-import Postman collection is included in this repository:
 
