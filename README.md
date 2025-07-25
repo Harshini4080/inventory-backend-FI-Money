@@ -100,7 +100,7 @@ Authorization: Bearer <your_token>
 
 Interactive Swagger documentation is available at:
 
-📍 [`http://localhost:5000/api-docs`](http://localhost:5000/api-docs)
+📍 [`https://inventory-backend-fi-money.onrender.com/api-docs/`](http://localhost:5000/api-docs)
 
 You can view all endpoints, try requests, and see expected inputs and responses.
 
