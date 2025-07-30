@@ -116,6 +116,9 @@ You can import this collection into Postman and start testing the API endpoints 
 
 ---
 
+## AI Disclosure
+
+I used AI tools to help build the frontend components, set up API integration with Axios, and improve the UI flow. The code was reviewed and modified based on my understanding.
 
 
 
